@@ -1,0 +1,3 @@
+https://docs.google.com/presentation/d/1Pix2c8zA0uThYN_hAZ_h-zs2NYLUim_vAjNCqa_1nMM/edit#slide=id.g51fa4dc289_1_409
+https://www.jenkins.io/doc/tutorials/build-a-java-app-with-maven/
+https://www.vogella.com/tutorials/Jenkins/article.html
